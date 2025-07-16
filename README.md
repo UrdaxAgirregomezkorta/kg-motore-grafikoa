@@ -1,3 +1,6 @@
-abioia-1+1.txt falta da
+# Motore grafikoa
 
-azalpena pdf moduan
+Azalpen osoa pdf moduan dago.
+
+abioia-1+1.txt falta da.
+
